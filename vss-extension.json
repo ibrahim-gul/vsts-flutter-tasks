@@ -61,7 +61,7 @@
     ],
     "contributions": [
         {
-            "id": "flutter-install",
+            "id": "flutter-install-ig",
             "type": "ms.vss-distributed-task.task",
             "targets": [
                 "ms.vss-distributed-task.tasks"
@@ -71,7 +71,7 @@
             }
         },
         {
-            "id": "flutter-build",
+            "id": "flutter-build-ig",
             "type": "ms.vss-distributed-task.task",
             "targets": [
                 "ms.vss-distributed-task.tasks"
@@ -81,7 +81,7 @@
             }
         },
         {
-            "id": "flutter-test",
+            "id": "flutter-test-ig",
             "type": "ms.vss-distributed-task.task",
             "targets": [
                 "ms.vss-distributed-task.tasks"
@@ -91,7 +91,7 @@
             }
         },
         {
-            "id": "flutter-command",
+            "id": "flutter-command-ig",
             "type": "ms.vss-distributed-task.task",
             "targets": [
                 "ms.vss-distributed-task.tasks"
