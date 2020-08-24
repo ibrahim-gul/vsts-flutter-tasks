@@ -3,7 +3,7 @@
     "id": "flutter",
     "version": "0.1.1",
     "name": "Flutter",
-    "description": "Flutter extension for Azure DevOps",
+    "description": "Flutter extension for Azure DevOps - FORK from https://github.com/aloisdeniel",
     "publisher": "ibrahimgul",
     "public": true,
     "targets": [
