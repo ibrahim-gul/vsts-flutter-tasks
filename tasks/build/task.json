@@ -102,6 +102,14 @@
             }
         },
         {
+            "name": "splitPerAbi",
+            "type": "boolean",
+            "label": "Split Per ABI",
+            "defaultValue": false,
+            "helpMarkDown": "Splits APKs per ABI",
+            "required": false
+        },
+        {
             "name": "iosTargetPlatform",
             "type": "pickList",
             "label": "Target platform architecture",
