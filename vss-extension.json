@@ -1,7 +1,7 @@
 {
     "manifestVersion": 1,
     "id": "flutter",
-    "version": "0.1.4",
+    "version": "0.1.5",
     "name": "Flutter",
     "description": "Flutter extension for Azure DevOps - FORK from https://github.com/aloisdeniel",
     "publisher": "ibrahimgul",
