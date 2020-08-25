@@ -1,11 +1,11 @@
 {
-    "id": "fca8d27d-85f4-4d5d-a519-8d7a7edf15d7",
+    "id": "f70c094f-d4c4-4c66-95e8-49100e26e28a",
     "name": "FlutterInstall",
     "friendlyName": "Flutter Install",
     "description": "Install the Flutter environment.",
     "helpMarkdown": "For more information, take a look at the Flutter [documentation](https://flutter.io)",
     "category": "Tool",
-    "author": "Aloïs Deniel",
+    "author": "ibrahimgul",
     "version": {
         "Major": 0,
         "Minor": 2,
