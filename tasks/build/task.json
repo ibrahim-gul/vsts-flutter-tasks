@@ -1,5 +1,5 @@
 {
-    "id": "10a2efb1-b922-4849-81de-bccd2537ccc1",
+    "id": "99b9aa2b-4545-4a7e-990f-6a9d06fa32f6",
     "name": "FlutterBuild",
     "friendlyName": "Flutter Build",
     "description": "Build a Flutter application project.",
@@ -8,7 +8,7 @@
     "visibility": [
         "Build"
     ],
-    "author": "Aloïs Deniel",
+    "author": "ibrahimgul",
     "version": {
         "Major": 0,
         "Minor": 2,
