@@ -40,6 +40,7 @@ Build the given mobile application project. You must call the `Flutter Install` 
 * _(Optional)_. Set `build flavour` (like `development`) to specify a build flavour.  Must match Android Gradle flavor definition or XCode scheme.
 * _(Optional)_. Set `debug` if you wish to override the default release mode for the build.
 * __(Android)__._(Optional)_. Set `platform` for the Android target: `android-arm (default)`, `android-arm64`.
+* __(Android)__._(Optional)_. Set `split per abi` for the Android target. This option overrides 'Target platform architecture'. Three APKs are generated for `armeabi-v7a (ARM 32-bit)`, `arm64-v8a (ARM 64-bit)`, and `x86-64 (x86 64-bit)`.
 * __(iOS)__._(Optional)_. Set `platform` for the iOS target: `device (default)`, `simulator`.
 * __(iOS)__._(Optional)_. Codesign the application bundle (only available on device builds, and activated by default). **Warning: you must install a valid certificate before build with the `Install an Apple Certificate`task**
 
