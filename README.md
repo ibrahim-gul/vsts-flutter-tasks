@@ -2,7 +2,7 @@
 
 [Flutter](http://flutter.io) build task for [Azure DevOps](https://azure.microsoft.com/fr-fr/services/devops/).
 
-All credit goes to original author for his awesome work. This extension is custom/updated/maintained fork of Alois Deniel's extension Github
+All credit goes to original author for his awesome work. This extension is custom/updated/maintained fork of Alois Deniel's extension Github. This extension adds 'Split Per ABI' option for Android targets.
 
 ## Installation
 
