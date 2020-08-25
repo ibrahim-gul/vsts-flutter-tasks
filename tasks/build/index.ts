@@ -64,10 +64,6 @@ async function buildApk(flutter: string, targetPlatform?: string, buildName?: st
         args.push("--debug");
     }
 
-    if (targetPlatform) {
-        args.push("--target-platform=" + targetPlatform);
-    }
-
     if (buildName) {
         args.push("--build-name=" + buildName);
     }
@@ -86,6 +82,9 @@ async function buildApk(flutter: string, targetPlatform?: string, buildName?: st
     
     if (splitPerAbi) {
         args.push("--split-per-abi");
+    }
+    else if (targetPlatform) {
+        args.push("--target-platform=" + targetPlatform);
     }
 
     var result = await task.exec(flutter, args);
